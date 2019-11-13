@@ -6,6 +6,9 @@ public class MyFirstStep {
 		System.out.println("Planing to start small Business");
 		System.out.println("Select Business Type");
 		System.out.println("Doing Onfield Research");
+		System.out.println("Analysing pros and cons");
+		
+
 
 	}
 
